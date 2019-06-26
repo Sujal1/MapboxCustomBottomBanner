@@ -21,7 +21,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MGLMapboxAccessToken</key>
-	<string>pk.eyJ1Ijoic3VqYWxtYW5hbmRoYXIiLCJhIjoiY2pubGFlMTVxMWl3djNxbnJ6MzYzOXEzaCJ9.AqenjJEY0srMNiXJ9oVycQ</string>
+	<string></string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>Provide location access for navigation</string>
 	<key>NSLocationAlwaysUsageDescription</key>
