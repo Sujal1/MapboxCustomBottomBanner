@@ -7,11 +7,10 @@
 //
 
 import UIKit
-import MapboxGeocoder
 import MapboxDirections
 import MapboxNavigation
 import MapboxCoreNavigation
-import CryptoSwift
+
 
 class ViewController: UIViewController {
 

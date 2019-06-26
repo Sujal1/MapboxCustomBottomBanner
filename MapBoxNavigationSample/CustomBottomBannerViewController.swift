@@ -7,9 +7,7 @@
 //
 
 import UIKit
-import MapboxCoreNavigation
-import MapboxDirections
-import CoreLocation
+
 import MapboxNavigation
 
 
